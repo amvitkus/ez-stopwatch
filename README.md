@@ -1,5 +1,5 @@
 # ez-stopwatch
-Kotlin Jetpack Compose desktop app to run a simple stop watch. Currently functional with start, pause, and reset buttons.
+Kotlin Jetpack Compose desktop app to run a basic stop watch. Currently functional with start, pause, and reset buttons.
 
 # SCREENSHOT
 
